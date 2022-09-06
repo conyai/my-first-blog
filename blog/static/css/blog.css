@@ -14,7 +14,7 @@
     margin-left: 40px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
@@ -44,9 +44,4 @@ h1, h2, h3 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
-}
-
-.homepage {
-	float: right;
-	font-family: 'Lobster';
 }
